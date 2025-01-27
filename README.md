@@ -60,13 +60,13 @@ sudo cp /Applications/Cursor.app/Contents/Info.plist.backup /Applications/Cursor
 
 This is a known issue that has been discussed in various places:
 
-- [Folder drag and drop dock icon support](https://forum.cursor.com/t/folder-drag-and-drop-dock-icon-support/509/23) (Cursor Forum)
-- [Can't drag folder onto Cursor icon (works with VSCode)](https://forum.cursor.com/t/cant-drag-folder-onto-cursor-icon-works-with-vscode/16594) (Cursor Forum)
-- [Drag and drop folder to dock icon not working](https://github.com/getcursor/cursor/issues/586) (GitHub Issue)
-- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/894) (GitHub Issue)
-- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/989) (GitHub Issue)
-- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/2343) (GitHub Issue)
-- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/1110) (GitHub Issue)
+- [**Cursor Forum**: Folder drag and drop dock icon support](https://forum.cursor.com/t/folder-drag-and-drop-dock-icon-support/509/23)
+- [**Cursor Forum**: Can't drag folder onto Cursor icon (works with VSCode)](https://forum.cursor.com/t/cant-drag-folder-onto-cursor-icon-works-with-vscode/16594)
+- [**GitHub Issue #586**: MacOS cannot open project by drag folder to cursor's icon in Dock](https://github.com/getcursor/cursor/issues/586)
+- [**GitHub Issue #894**: Allowing drag into cursor to open folder](https://github.com/getcursor/cursor/issues/894)
+- [**GitHub Issue #989**: Cannot drag and drop folder onto the Dock icon to open it in Cursor](https://github.com/getcursor/cursor/issues/989)
+- [**GitHub Issue #1110**: Cursor not registered to open any file types with the app on macOS](https://github.com/getcursor/cursor/issues/1110)
+- [**GitHub Issue #2343**: Drag and Drop Directory to Cursor Icon to Open Directory Not Working](https://github.com/getcursor/cursor/issues/2343)
 
 
 ## License
