@@ -50,10 +50,23 @@ The script performs the following tasks:
 
 To revert changes:
 
-2. Restore the original Info.plist:
+Restore the original Info.plist:
 ```bash
 sudo cp /Applications/Cursor.app/Contents/Info.plist.backup /Applications/Cursor.app/Contents/Info.plist
 ```
+
+
+## Related Issues
+
+This is a known issue that has been discussed in various places:
+
+- [Folder drag and drop dock icon support](https://forum.cursor.com/t/folder-drag-and-drop-dock-icon-support/509/23) (Cursor Forum)
+- [Can't drag folder onto Cursor icon (works with VSCode)](https://forum.cursor.com/t/cant-drag-folder-onto-cursor-icon-works-with-vscode/16594) (Cursor Forum)
+- [Drag and drop folder to dock icon not working](https://github.com/getcursor/cursor/issues/586) (GitHub Issue)
+- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/894) (GitHub Issue)
+- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/989) (GitHub Issue)
+- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/2343) (GitHub Issue)
+- [Drag and drop folder to dock icon not working on macOS](https://github.com/getcursor/cursor/issues/1110) (GitHub Issue)
 
 
 ## License
