@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://ke.mit-license.org/)
 [![Twitter: der_abro](https://img.shields.io/badge/-@der__abro-1DA1F2?logo=x&logoColor=white)](https://x.com/der_abro)
 
-Enable drag & drop folder support for Cursor IDE on macOS. This fixes a known limitation where folders cannot be opened by dropping them onto the Cursor IDE dock icon (unlike VSCode, Windsurf, and other editors where this works out of the box).
+Enable drag & drop folder support for Cursor IDE on macOS. This fixes a [known limitation](#related-issues) where folders cannot be opened by dropping them onto the Cursor IDE dock icon (unlike VSCode, Windsurf, and other editors where this works out of the box).
 
 
 ## Features
